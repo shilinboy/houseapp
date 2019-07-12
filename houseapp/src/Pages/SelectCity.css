@@ -1,0 +1,43 @@
+.select_box{
+    height: 100%;
+    /* background: #F6F6F7; */
+}
+
+.cityBig_div{
+    height: 100%;
+    background: #fff;
+    position: relative;  
+}
+
+.city_continer{
+   
+}
+.city_continer .cityname_box{
+
+}
+.city_continer .cityname_box .cityTitle{
+    width: 100%;
+    height:30px;
+    color: #aaa;
+    line-height: 30px;
+    font-size: 14px;
+    text-indent: 20px;
+    background: #F7F7F8;
+}
+.city_continer .cityname_box .cityname{
+    padding: 0 0px 0 20px;
+    
+}
+.city_continer .cityname_box .cityname > div{
+    font-size: 16px;
+    height: 60px;
+    line-height: 60px;
+    border-bottom: 1px solid #F7F7F8;
+}
+
+.cityBig_div .titleBtn{
+    position: absolute;
+   
+    top:0;
+    left:10px;
+}

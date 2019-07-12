@@ -1,0 +1,33 @@
+.like_div{
+    height: 100px;
+    margin: 10px 0;
+    display: flex;
+ 
+}
+.like_div .goodsImg{
+    width: 35%;
+}
+.like_div .info_div{
+    flex: 1;
+    padding-left: 10px;
+    
+}
+.like_div .price_div{
+    width: 70px;
+    color: red;
+    font-size: 16px;
+    text-align: right;
+}
+.like_div .info_div h5 , p {
+    margin: 0;
+}
+.like_div .info_div h5{
+    font-size: 18px;
+}
+.like_div .info_div p{
+    margin: 10px 0;
+    color: rgb(112, 112, 112);
+}
+.like_div .info_div p span{
+    margin-left: 10px;
+}

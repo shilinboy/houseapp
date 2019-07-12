@@ -1,0 +1,30 @@
+.myTop_div{
+    height: 181px;
+    background: #0065AF;
+    padding: 20px 5px 0px 5px;
+   /*  position: fixed;
+    top:0;
+    z-index: 10000; */
+}
+.myTop_div .top_info_div{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+}
+.myTop_div .top_info_div .mycenter_box{
+    width: 60%;
+}
+.myTop_div .top_info_div .mycenter_box p{
+    color: #fff;
+}
+.myTop_div .top_info_div .mycenter_box p:first-child{
+    font-size: 20px;
+    margin-bottom: 10px;
+    
+}
+.bottom_box P{
+    font-size: 16px;
+}
+.bottom_box > P:first-child{
+    margin-bottom: 5px;
+}
